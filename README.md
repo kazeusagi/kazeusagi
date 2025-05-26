@@ -12,6 +12,7 @@
 [![Static Badge](https://img.shields.io/badge/Biome-Very_fast_Linter_and_Formatter_!-blue?logo=biome)](https://biomejs.dev/ja/)  
 [![Static Badge](https://img.shields.io/badge/Lefthook-Simpler_and_Faster_Git_hooks_manager_!-blue?logo=lefthook&logoColor=red)](https://lefthook.dev/)  
 [![Static Badge](https://img.shields.io/badge/👻Jotai-React--friendry_global_state_management_tool_!-blue)](https://jotai.org/)  
+[![Static Badge](https://img.shields.io/badge/Hono-Simple_and_Powerful_web_framework_!-blue?logo=hono)](https://jotai.org/)  
 
 ## Templates
 
